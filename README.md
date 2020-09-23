@@ -10,5 +10,5 @@ When the user clicks the save button for that timeblock, the text for that event
 When the user clicks the delete button for that timeblock, the text for that event is cleared from the timeblock.
 When the user refreshes the page, the saved events persist.
 
-![work-day-scheduler1](./assets/Screen Shot 2020-09-22 at 11.54.02 PM.png)
-![work-day-scheduler1](./assets/Screen Shot 2020-09-23 at 12.16.57 AM.png)
+![work-day-scheduler1](./assets/ScreenShot2020-09-22at11.54.02PM.png)
+![work-day-scheduler1](./assets/ScreenShot2020-09-23at12.16.57AM.png)
